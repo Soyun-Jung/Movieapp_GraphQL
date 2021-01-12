@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Soyun-Jung/Movieapp_GraphQL/issues"
   },
-  "homepage": "https://github.com/Soyun-Jung/Movieapp_GraphQL#readme"
+  "homepage": "https://github.com/Soyun-Jung/Movieapp_GraphQL#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
 }
